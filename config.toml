@@ -1,6 +1,6 @@
 baseURL = "https://oszkar-photos.netlify.com/"
 languageCode = "en-us"
-title = "Netlify photo gallery"
+title = "Oszkar photo gallery"
 
 [menu]
   [[menu.main]]
@@ -9,9 +9,9 @@ title = "Netlify photo gallery"
     url = "/"
   [[menu.main]]
     identifier = "photos_m"
-    name = "Photo gallery (masonry)"
+    name = "Photo gallery 1(masonry)"
     url = "/photos_m/"
   [[menu.main]]
     identifier = "photos_s"
-    name = "Photo gallery (square)"
+    name = "Photo gallery 2(square)"
     url = "/photos_s/"
